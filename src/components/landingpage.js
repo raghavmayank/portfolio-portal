@@ -19,7 +19,7 @@ class Landing extends Component {
               <h1>Software Engineer</h1>
 
             <hr/>
-                                  <p>Python | Django | Angular </p>
+                                  <p>Python | Django | Angular | AWS | GCS </p>
           <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
 
         <div className="social-links">

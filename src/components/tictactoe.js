@@ -73,7 +73,10 @@ class Board extends React.Component {
 class Game extends React.Component {
   render() {
     return (
-      <div className="game">
+      <div className="game"    style={{
+        position: 'absolute', left: '50%', top: '50%',
+        transform: 'translate(-50%, -50%)'
+    }}>
         <div className="game-board">
           <Board />
         </div>
